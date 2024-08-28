@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Sam - Technical Support"
-    email: "{cipher}45D81EC1EF61DF9AD8D3E5BB397F9"
+    email: "{cipher}d05278733f1a84f7d7c21d1698a86dd0a021c8f4afb785e892089b607dcaf7b3"
   onCallSupport:
     - (555) 555-1111
     - (555) 523-1345
